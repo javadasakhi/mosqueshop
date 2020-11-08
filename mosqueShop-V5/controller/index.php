@@ -131,7 +131,7 @@ $sliderImage=connectDB::query('select sliderImage from news where category=:cate
 
 //-------------------------------------------------------------------------------------------------------------------------------------
 
-$hadis=connectDB::query('select hadis from news where category=:category',array(':category'=>$hadisCategory))[0]['hadis'];
+$hadis=connectDB::query('select hadis from news where category=:category',array(':category'=>$hadisCategory))[0];
 
 //-------------------------------------------------------------------------------------------------------------------------------------
 

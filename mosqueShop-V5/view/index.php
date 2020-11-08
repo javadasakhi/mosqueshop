@@ -1,5 +1,5 @@
 <?php include('../controller/index.php'); ?>
-<?php// include('../controller/onlineUser.php'); ?>
+<?php // include('../controller/onlineUser.php'); ?>
 <!doctype html>
 <html lang="fa">
 
@@ -33,18 +33,13 @@
     <div class="top-title">
         <div id="demo" class="ticker">
             <ul>
-                <li>
-                    <?php echo $hadis; ?>
-                </li>
-                <li>
-                    <?php echo $hadis; ?>
-                </li>
-                <li>
-                    <?php echo $hadis; ?>
-                </li>
-                <li>
-                    <?php echo $hadis; ?>
-                </li>
+                <?php
+                foreach ((array)$hadis as $h) {
+                    echo '<li>';
+                    echo $h;
+                    echo '</li>';
+                }
+                ?>
             </ul>
         </div>
     </div>
@@ -261,13 +256,16 @@
 
                 <div class="carousel-inner rounded">
                     <div class="carousel-item active">
-                        <img class="d-block w-100" src="<?php echo $sliderImage[0]['sliderImage']; ?>" alt="London" height="300">
+                        <img class="d-block w-100" src="<?php echo $sliderImage[0]['sliderImage']; ?>" alt="London"
+                             height="300">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="<?php echo $sliderImage[1]['sliderImage']; ?>" alt="London" height="300">
+                        <img class="d-block w-100" src="<?php echo $sliderImage[1]['sliderImage']; ?>" alt="London"
+                             height="300">
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="<?php echo $sliderImage[3]['sliderImage']; ?>" alt="London" height="300">
+                        <img class="d-block w-100" src="<?php echo $sliderImage[3]['sliderImage']; ?>" alt="London"
+                             height="300">
                         <!--<div class="carousel-caption">-->
                         <!--<p class="text-warning font-weight-bold">کپشن خبر</p>-->
                         <!--</div>-->
@@ -360,7 +358,9 @@
                         کارگاه تولید خلاق چیه و کجاست؟
                     </a>
                     <p class="mt-3">
-                        این کارگاه مکانی است صمیمی و در عین حال جهادی برای تمامی کسانی که به کارآفرینی ،تحقیق‌ و پژوهش در حوزه اشتغال و آی تی علاقه مندند. کارگاهی که اولین نتیجه جدی ستاد کارآفرینان مسجد و محله است و اولین مرکز آن در مسجد جامع المهدی (عج) واقع در میدان بریانک
+                        این کارگاه مکانی است صمیمی و در عین حال جهادی برای تمامی کسانی که به کارآفرینی ،تحقیق‌ و پژوهش
+                        در حوزه اشتغال و آی تی علاقه مندند. کارگاهی که اولین نتیجه جدی ستاد کارآفرینان مسجد و محله است و
+                        اولین مرکز آن در مسجد جامع المهدی (عج) واقع در میدان بریانک
                         تهران واقع است.
                     </p>
                     <a class="float-left" href="../controller/newsDetail.php?k=tnrld">ادامه مطلب</a>
@@ -373,7 +373,9 @@
                         حضور ستاد کارآفرینان در دهکده مقاومت
                     </a>
                     <p class="mt-3">
-                        ستاد کارفرینان مسجد و محله در 17 شهریورماه 99 به دعوت سران این مرکز در یک نمایشگاه که در مکان مرکز رشد شهید تهرانی مقدم تهران بود شرکت نمود و همپای شرکت ها و استارت آپ های نخبه کشور به ارائه محصولات و دستاوردهای خویش پرداخت.
+                        ستاد کارفرینان مسجد و محله در 17 شهریورماه 99 به دعوت سران این مرکز در یک نمایشگاه که در مکان
+                        مرکز رشد شهید تهرانی مقدم تهران بود شرکت نمود و همپای شرکت ها و استارت آپ های نخبه کشور به ارائه
+                        محصولات و دستاوردهای خویش پرداخت.
                     </p>
                     <a class="float-left" href="../controller/newsDetail.php?k=tncld">ادامه مطلب</a>
                 </div>
@@ -385,7 +387,9 @@
                         تولید ماسک کودک و بزرگسال در کارگاه تولید خلاق
                     </a>
                     <p class="mt-3">
-                        در این روزها که زندگی همه ما انسان‌ها با مقوله ای به نام بیماری کرونا عجین شده یکی از ملزومات همراه ما‌سک های بهداشتی است. ستاد کارآفرینان و کارگاه تولید خلاق بر خود لازم دید که با تولید انواع ماسک های بهداشتی مرغوب، باکیفیت و ارزان یکی از دغدغه های روزمره
+                        در این روزها که زندگی همه ما انسان‌ها با مقوله ای به نام بیماری کرونا عجین شده یکی از ملزومات
+                        همراه ما‌سک های بهداشتی است. ستاد کارآفرینان و کارگاه تولید خلاق بر خود لازم دید که با تولید
+                        انواع ماسک های بهداشتی مرغوب، باکیفیت و ارزان یکی از دغدغه های روزمره
                         شما را برطرف سازد.
                     </p>
                     <a class="float-left" href="../controller/newsDetail.php?k=tnlld">ادامه مطلب</a>
@@ -412,11 +416,11 @@
     <div class="row">
         <div class="col-12 col-lg-4 mb-3">
             <div class="card custom-box border-1 h-100">
-                <img class="card-img-top" src="<?php echo $successImageRightNews;?>" alt="">
+                <img class="card-img-top" src="<?php echo $successImageRightNews; ?>" alt="">
                 <div class="card-body">
                     <a href="#" class="card-title font-weight-bold"><?php echo $successTitleRightNews; ?></a>
                     <p class="card-text">
-                       <?php echo $successSmallRightNews;?>
+                        <?php echo $successSmallRightNews; ?>
                     </p>
                 </div>
                 <div class="card-footer">
@@ -426,11 +430,11 @@
         </div>
         <div class="col-12 col-lg-4 mb-3">
             <div class="card custom-box border-1 h-100">
-                <img class="card-img-top" src="<?php echo $successImageCenterNews;?>" alt="">
+                <img class="card-img-top" src="<?php echo $successImageCenterNews; ?>" alt="">
                 <div class="card-body">
-                    <a href="#" class="card-title font-weight-bold"><?php echo $successTitleCenterNews;?></a>
+                    <a href="#" class="card-title font-weight-bold"><?php echo $successTitleCenterNews; ?></a>
                     <p class="card-text">
-                       <?php echo $successSmallCenterNews;?>
+                        <?php echo $successSmallCenterNews; ?>
                     </p>
                 </div>
                 <div class="card-footer">
@@ -440,11 +444,11 @@
         </div>
         <div class="col-12 col-lg-4 mb-3">
             <div class="card custom-box border-1 h-100">
-                <img class="card-img-top" src="<?php echo $successImageLeftNews;?>" alt="">
+                <img class="card-img-top" src="<?php echo $successImageLeftNews; ?>" alt="">
                 <div class="card-body">
-                    <a href="#" class="card-title font-weight-bold"><?php echo $successTitleLeftNews;?></a>
+                    <a href="#" class="card-title font-weight-bold"><?php echo $successTitleLeftNews; ?></a>
                     <p class="card-text">
-                       <?php echo $successSmallLeftNews;?>
+                        <?php echo $successSmallLeftNews; ?>
                     </p>
                 </div>
                 <div class="card-footer">
@@ -466,9 +470,9 @@
             <div class="col-12 col-md-4">
                 <p class="text-white font-weight-bold ml-2">آمار وب سایت</p>
                 <ul class="list-inline text-white mt-3">
-                    <li class="p-1">کاربران آنلاین: <?php// print_r($count_user_online);?></li>
-                    <li class="p-1">تعداد مطالب : <?php echo $count_content;?></li>
-                    <li class="p-1">تعداد کامنت : <?php echo $count_comment;?></li>
+                    <li class="p-1">کاربران آنلاین: <?php // print_r($count_user_online);?></li>
+                    <li class="p-1">تعداد مطالب : <?php echo $count_content; ?></li>
+                    <li class="p-1">تعداد کامنت : <?php echo $count_comment; ?></li>
                 </ul>
             </div>
             <div class="col-12 col-md-4 mt-3 mt-md-0 text-white">
@@ -495,7 +499,8 @@
 </footer>
 <div class="container-fluid text-white copyright p-2">
     <div class="row m-auto p-2">
-        <p class="pt-2 col-12 col-xl-8 text-center mr-xl-5">کلیه حقوق مادی و معنوی سایت محفوظ و متعلق به ستاد کارآفرینی خلاق
+        <p class="pt-2 col-12 col-xl-8 text-center mr-xl-5">کلیه حقوق مادی و معنوی سایت محفوظ و متعلق به ستاد کارآفرینی
+            خلاق
             می باشد ، هر گونه کپی برداری پیگرد قانونی دارد</p>
         <div class="col-12 col-xl-2 mt-2 text-center">
             <a href="#" id="instagram-icon"><img src="www.instagram.com/setad_karafarinan"></a>
