@@ -503,9 +503,9 @@
             خلاق
             می باشد ، هر گونه کپی برداری پیگرد قانونی دارد</p>
         <div class="col-12 col-xl-2 mt-2 text-center">
-            <a href="#" id="instagram-icon"><img src="www.instagram.com/setad_karafarinan"></a>
-            <a href="#" id="whatsapp-icon"><img src="https://chat.whatsapp.com/JqVdAd3w6zH8NuDU4XTuyY"></a>ّ
-            <a href="#" id="telegram-icon"><img src="https://t.me/karafarin_setad"></a>
+            <a href="www.instagram.com/setad_karafarinan" id="instagram-icon"><img src="./images/instagram.png"></a>
+            <a href="https://chat.whatsapp.com/JqVdAd3w6zH8NuDU4XTuyY" id="whatsapp-icon"><img src="./images/whatsapp.png"></a>ّ
+            <a href="https://t.me/karafarin_setad" id="telegram-icon"><img src="./images/telegram.png"></a>
         </div>
     </div>
 
