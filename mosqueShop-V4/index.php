@@ -61,7 +61,7 @@
         </button>
         <div class="collapse navbar-collapse" id="sub-menu-1">
             <ul class="navbar-nav">
-                <li class="nav-item"><a href="./index.html" class="nav-link">خانه</a></li>
+                <li class="nav-item"><a href="index.php" class="nav-link">خانه</a></li>
                 <li class="nav-item ">
                     <a href="#" class="nav-link dropdown-toggle custom-dropdown-toggle" data-toggle="dropdown">محصولات</a>
                     <div class="dropdown-menu bg-muted m-0 border-0" id="custom-mega-dropdown">
@@ -72,25 +72,25 @@
                                     </div>
                                     <ul class="list-group custom-dropdown-main-menu">
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر سه بعدی
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">لوازم جانبی پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">اسکنر
                                             </a>
                                         </li>
@@ -102,25 +102,25 @@
                                     </div>
                                     <ul class="list-group custom-dropdown-main-menu">
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر سه بعدی
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">لوازم جانبی پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">اسکنر
                                             </a>
                                         </li>
@@ -132,25 +132,25 @@
                                     </div>
                                     <ul class="list-group custom-dropdown-main-menu">
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر سه بعدی
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">لوازم جانبی پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">اسکنر
                                             </a>
                                         </li>
@@ -162,25 +162,25 @@
                                     </div>
                                     <ul class="list-group custom-dropdown-main-menu">
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر سه بعدی
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">لوازم جانبی پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">اسکنر
                                             </a>
                                         </li>
@@ -191,8 +191,8 @@
                         </div>
                     </div>
                 </li>
-                <li class="nav-item"><a href="./aboutUs.html" class="nav-link">درباره ما</a></li>
-                <li class="nav-item"><a href="./contactUs.html" class="nav-link">ارتباط با ما</a></li>
+                <li class="nav-item"><a href="aboutUs.php" class="nav-link">درباره ما</a></li>
+                <li class="nav-item"><a href="contactUs.php" class="nav-link">ارتباط با ما</a></li>
             </ul>
 
             <form action="" class="form-inline mr-auto">
@@ -211,9 +211,9 @@
                         </a>
                         <div class="dropdown-menu border-left-0 border-right-0 shadow-sm" id="custom-dropdown-menu">
 
-                            <a href="./shoppingCart.html" class="dropdown-item text-center">سبد خرید</a>
+                            <a href="shoppingCart.php" class="dropdown-item text-center">سبد خرید</a>
                             <div class="dropdown-divider"></div>
-                            <a href="./login.html" class="btn btn-block btn-sm my-auto">ورود</a>
+                            <a href="login.php" class="btn btn-block btn-sm my-auto">ورود</a>
                             <div class="dropdown-divider"></div>
                             <a href="#" class="dropdown-item text-center">خروج</a>
                         </div>
@@ -299,7 +299,7 @@
                         </p>
                     </div>
                     <div class="card-footer">
-                        <a class="float-left" href="./newsDetail.html">ادامه مطلب</a>
+                        <a class="float-left" href="newsDetail.php">ادامه مطلب</a>
                     </div>
                 </div>
             </div>
@@ -316,7 +316,7 @@
                         </p>
                     </div>
                     <div class="card-footer">
-                        <a class="float-left" href="./newsDetail.html">ادامه مطلب</a>
+                        <a class="float-left" href="newsDetail.php">ادامه مطلب</a>
                     </div>
                 </div>
             </div>
@@ -332,7 +332,7 @@
                         </p>
                     </div>
                     <div class="card-footer">
-                        <a class="float-left" href="./newsDetail.html">ادامه مطلب</a>
+                        <a class="float-left" href="newsDetail.php">ادامه مطلب</a>
                     </div>
                 </div>
             </div>
@@ -349,7 +349,7 @@
                         این کارگاه مکانی است صمیمی و در عین حال جهادی برای تمامی کسانی که به کارآفرینی ،تحقیق‌ و پژوهش در حوزه اشتغال و آی تی علاقه مندند. کارگاهی که اولین نتیجه جدی ستاد کارآفرینان مسجد و محله است و اولین مرکز آن در مسجد جامع المهدی (عج) واقع در میدان بریانک
                         تهران واقع است.
                     </p>
-                    <a class="float-left" href="./newsDetail.html">ادامه مطلب</a>
+                    <a class="float-left" href="newsDetail.php">ادامه مطلب</a>
                 </div>
             </div>
             <div class="col-12 col-md-12 mb-3 d-flex">
@@ -361,7 +361,7 @@
                     <p class="mt-3">
                         ستاد کارفرینان مسجد و محله در 17 شهریورماه 99 به دعوت سران این مرکز در یک نمایشگاه که در مکان مرکز رشد شهید تهرانی مقدم تهران بود شرکت نمود و همپای شرکت ها و استارت آپ های نخبه کشور به ارائه محصولات و دستاوردهای خویش پرداخت.
                     </p>
-                    <a class="float-left" href="./newsDetail.html">ادامه مطلب</a>
+                    <a class="float-left" href="newsDetail.php">ادامه مطلب</a>
                 </div>
             </div>
             <div class="col-12 col-md-12 mb-3 d-flex">
@@ -374,7 +374,7 @@
                         در این روزها که زندگی همه ما انسان‌ها با مقوله ای به نام بیماری کرونا عجین شده یکی از ملزومات همراه ما‌سک های بهداشتی است. ستاد کارآفرینان و کارگاه تولید خلاق بر خود لازم دید که با تولید انواع ماسک های بهداشتی مرغوب، باکیفیت و ارزان یکی از دغدغه های روزمره
                         شما را برطرف سازد.
                     </p>
-                    <a class="float-left" href="./newsDetail.html">ادامه مطلب</a>
+                    <a class="float-left" href="newsDetail.php">ادامه مطلب</a>
                 </div>
             </div>
         </div>
@@ -405,7 +405,7 @@
                         </p>
                     </div>
                     <div class="card-footer">
-                        <a class="float-left" href="./newsDetail.html">ادامه مطلب</a>
+                        <a class="float-left" href="newsDetail.php">ادامه مطلب</a>
                     </div>
                 </div>
             </div>
@@ -419,7 +419,7 @@
                         </p>
                     </div>
                     <div class="card-footer">
-                        <a class="float-left" href="./newsDetail.html">ادامه مطلب</a>
+                        <a class="float-left" href="newsDetail.php">ادامه مطلب</a>
                     </div>
                 </div>
             </div>
@@ -433,7 +433,7 @@
                         </p>
                     </div>
                     <div class="card-footer">
-                        <a class="float-left" href="./newsDetail.html">ادامه مطلب</a>
+                        <a class="float-left" href="newsDetail.php">ادامه مطلب</a>
                     </div>
                 </div>
             </div>

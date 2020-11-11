@@ -34,13 +34,13 @@
             <button class="custom-btn">ثبت نام</button>
             <div>
                 <small>حساب کاربری دارید؟</small>
-                <a id="signUp-btn" href="./login.html">ورود</a>
+                <a id="signUp-btn" href="login.php">ورود</a>
             </div>
         </form>
     </div>
 
     <!-- back-to-home-page -->
-    <a href="./index.html" id="back-to-home-page">
+    <a href="index.php" id="back-to-home-page">
         <img src="./img/home.png" alt="">
     </a>
     <!-- back-to-home-page -->

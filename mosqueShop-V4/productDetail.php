@@ -3,13 +3,14 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>سبد خرید</title>
+    <title>جزئیات محصول</title>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/bootstrap-rtl.css">
+    <link rel="stylesheet" href="css/jquery.simpleTicker.css">
     <link rel="stylesheet" href="./style/style.css">
-    <link rel="stylesheet" href="./style/ShoppingCartStyle.css">
+    <link rel="stylesheet" href="./style/productDetailStyle.css">
 
 </head>
 
@@ -26,7 +27,7 @@
         </button>
         <div class="collapse navbar-collapse" id="sub-menu-1">
             <ul class="navbar-nav">
-                <li class="nav-item"><a href="./index.html" class="nav-link">خانه</a></li>
+                <li class="nav-item"><a href="index.php" class="nav-link">خانه</a></li>
                 <li class="nav-item ">
                     <a href="#" class="nav-link dropdown-toggle custom-dropdown-toggle" data-toggle="dropdown">محصولات</a>
                     <div class="dropdown-menu bg-muted m-0 border-0" id="custom-mega-dropdown">
@@ -37,25 +38,25 @@
                                     </div>
                                     <ul class="list-group custom-dropdown-main-menu">
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر سه بعدی
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">لوازم جانبی پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">اسکنر
                                             </a>
                                         </li>
@@ -67,25 +68,25 @@
                                     </div>
                                     <ul class="list-group custom-dropdown-main-menu">
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر سه بعدی
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">لوازم جانبی پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">اسکنر
                                             </a>
                                         </li>
@@ -97,25 +98,25 @@
                                     </div>
                                     <ul class="list-group custom-dropdown-main-menu">
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر سه بعدی
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">لوازم جانبی پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">اسکنر
                                             </a>
                                         </li>
@@ -127,25 +128,25 @@
                                     </div>
                                     <ul class="list-group custom-dropdown-main-menu">
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر سه بعدی
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">لوازم جانبی پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">اسکنر
                                             </a>
                                         </li>
@@ -176,9 +177,9 @@
                         </a>
                         <div class="dropdown-menu border-left-0 border-right-0 shadow-sm" id="custom-dropdown-menu">
 
-                            <a href="./shoppingCart.html" class="dropdown-item text-center">سبد خرید</a>
+                            <a href="shoppingCart.php" class="dropdown-item text-center">سبد خرید</a>
                             <div class="dropdown-divider"></div>
-                            <a href="./login.html" class="btn btn-block btn-sm my-auto">ورود</a>
+                            <a href="login.php" class="btn btn-block btn-sm my-auto">ورود</a>
                             <div class="dropdown-divider"></div>
                             <a href="#" class="dropdown-item text-center">خروج</a>
                         </div>
@@ -190,85 +191,112 @@
 
     <!--===== end header area =====-->
 
-    <!--start shop-cart-->
 
-    <div class="container-fluid">
+    <!--===== start main-content area =====-->
 
-        <div class="row m-5 p-5 justify-content-center border border-secondary rounded">
-            <div class="col-12 col-sm-6 col-xl-3 ml-sm-5 ml-md-0 mb-4">
-                <img src="http://via.placeholder.com/200x200" alt="" class="rounded float-right">
-            </div>
-            <div class="col-12 col-sm-6 col-xl-3 mr-sm-5 mr-md-0  mb-4">
-                <h5 class="font-weight-bold mb-4">محصول نمونه اولیه</h5>
-                <p>صفحه نمایش: 5 اینج</p>
-                <p>صفحه اصلی: 4 گیگ</p>
-                <p>حافظه جانبی: 32 گیگ</p>
-            </div>
-            <div class="col-12 col-xl-3 mb-2">
-                <div class="row">
-                    <!-- <label class="input-group-text mb-3 w-50 text-center mr-1">تعداد</label> -->
-                    <div class="input-group col-12 col-sm-6 col-xl-12 mb-5">
-                        <div class="input-group-prepend custom-input-group">
-                            <button class="btn btn-outline-secondary" type="button">+</button>
-                        </div>
-                        <input type="number" value="0" class="form-control col-md-3 text-center">
-                        <div class="input-group-append custom-input-group">
-                            <button class="btn btn-outline-secondary" type="button">-</button>
-                        </div>
+    <div class="bodyWrap container mb-5">
+        <div class="productStage">
+            <div class="botBorder clearFix">
+                <div class="row mb-4">
+                    <div class="productImage col-12 col-md-6">
+                        <img id="productImage-gallery" src="./img/product-pic.jpg">
+                        <ul class="imageList">
+                            <li>
+                                <a href=""><img id="product-gallery" src="./img/product-pic.jpg"></a>
+                            </li>
+                            <li>
+                                <a href="#"><img id="product-gallery" src="./img/product-pic.jpg"></a>
+                            </li>
+                            <li>
+                                <a href="#"><img id="product-gallery" src="./img/product-pic.jpg"></a>
+                            </li>
+                        </ul>
                     </div>
-                    <!-- <div class="btn" type="button" style="width: 10%;" id="custom-btn-span">
-                        <img src="./img/delete-icon.png" alt="" class="img-fluid">
-                    </div> -->
-                    <div class="col-12 col-sm-6 col-xl-12">
-                        <p>قیمت کل: 20000</p>
+                    <div class="overview col-12 col-md-6">
+                        <h1>محصول شماره 1</h1>
+                        <span class="rating">
+                             <img src="http://www.jimmybeanswool.com/secure-html/onlineec/images/stars/4_5StarBlue09.gif">
+                        </span>
+                        <h3>100000 تومان</h4>
+                            <span>از این محصول 50 کالا در انبار موجود است</span>
+                            <span class="description">
+                                لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد کتابهای زیادی در شصت و سه درصد گذشته حال و آینده                     
+                        </span>
+
+                            <select class="form-control mb-3">
+                                <option selected>قرمز</option>
+                                <option>بنفش</option>
+                                <option>صورتی</option>                   
+                           </select>
+
+                            <div class="btn btn-info btn-block  ">اضافه نمودن به سبد خرید</div>
+                    </div>
+                </div>
+
+                <div class="info">
+                    <h3>مشخصات محصول</h3>
+                    <ul class="specs">
+                        <li>
+                            <h5>ویژگی اول</h5> توضیح اول
+                        </li>
+                        <li>
+                            <h5>ویژگی دوم</h5> توضیح دوم
+                        </li>
+                        <li>
+                            <h5>ویژگی سوم</h5> توضیح سوم
+                        </li>
+
+                    </ul>
+
+                    <div class="description">
+                        لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می
+                        باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت
+                        می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.
+                    </div>
+                </div>
+
+                <div class="info">
+
+                    <div class="info">
+                        <h3>نظرات</h3>
+                        <div class="review p-4">
+                            <span class="title">حرف نداره</span>
+                            <span class="comments">
+                                لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است                            </span>
+                            <span class="author">نوشته شده توسط لورم ایپسوم</span>
+                        </div>
+                        <div class="btn btn-sm btn-danger float-right">نظرات بیشتر</div>
+
+
+                        <button class="btn btn-sm btn-danger float-left" type="submit" data-toggle="collapse" data-target="#collapse_sample">نظر دهید</button>
+                        <br>
+                        <br>
+                        <div class="collapse" id="collapse_sample">
+                            <div class="card card-body">
+                                <form>
+                                    <div class="form-group">
+                                        <label for="exampleFormControlInput1">نام</label>
+                                        <input type="email" class="form-control">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="exampleFormControlInput1">ایمیل خود را وارد کنید</label>
+                                        <input type="email" class="form-control">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="exampleFormControlTextarea1">متن نظر</label>
+                                        <textarea class="form-control" rows="3"></textarea>
+                                    </div>
+                                    <button class="btn btn-sm btn-info float-left">ارسال نظر</button>
+                                </form>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="card col-12 col-sm-12 col-xl-3">
-                <div class="card-body">
-                    <h5 class="card-title font-weight-bold mb-0 mb-xl-4 text-center">خلاصه سفارش</h5>
-                    <div class="px-4">
-                        <div class="row justify-content-between">
-                            <span>قیمت اولیه</span>
-                            <span>3000</span>
-                        </div>
-                        <hr>
-                        <div class="row justify-content-between">
-                            <span>تخفیف</span>
-                            <span>3000</span>
-                        </div>
-                        <hr>
-                        <div class="row justify-content-between">
-                            <span>هزینه حمل</span>
-                            <span>3000</span>
-                        </div>
-                        <hr>
-                        <div class="row justify-content-between">
-                            <span>مجموع</span>
-                            <span>3000</span>
-                        </div>
-                    </div>
-                    <a href="#" class="btn btn-info btn-block mt-4 custom-submit-btn">پرداخت</a>
-                </div>
-            </div>
         </div>
-
-        <!-- v2 forgot-pass-modal -->
-
-        <div class="overlay">
-            <div class="close__btn">
-                <span class="bar"></span>
-                <span class="bar second"></span>
-            </div>
-            <div class="overlay__container">
-                <p class="overlay__txt subtxt">با شما تماس گرفته خواهد شد</p>
-            </div>
-        </div>
-        <!-- v2 forgot-pass-modal -->
-
     </div>
 
-    <!--end  shop-cart-->
+    <!--===== end main-content area =====-->
 
     <!--===== start footer area =====-->
 
@@ -316,16 +344,17 @@
 
     <!--===== end footer area =====-->
 
-    <script>
-        const btn = document.querySelector('.custom-submit-btn');
-        const overlay = document.querySelector('.overlay');
-        const close = document.querySelector('.close__btn');
 
-        function modalInteraction() {
-            overlay.classList.toggle('open');
-        }
-        close.addEventListener('click', modalInteraction);
-        btn.addEventListener('click', modalInteraction);
+    <script>
+        // v2 modal 
+        window.onload = (function() {
+            var form = document.querySelector('.comments__form');
+
+            form.addEventListener('submit', function(e) {
+                e.preventDefault();
+            });
+
+        })();
     </script>
 
 
@@ -334,7 +363,7 @@
     <script src="js/bootstrap.js"></script>
     <script src="js/jquery.simpleTicker.js"></script>
     <script src="js/jquery.bootstrap.newsbox.js"></script>
-
+    <script src="js/custom.js"></script>
 </body>
 
 </html>

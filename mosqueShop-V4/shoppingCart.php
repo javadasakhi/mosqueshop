@@ -1,31 +1,21 @@
-<!doctype html>
-<html lang="fa">
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>اخبار</title>
-    <link rel="icon" href="./img/logo.png" sizes="500x500">
+    <title>سبد خرید</title>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/bootstrap-rtl.css">
-    <link rel="stylesheet" href="css/jquery.simpleTicker.css">
-    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"> -->
     <link rel="stylesheet" href="./style/style.css">
-    <link rel="stylesheet" href="./style/newsDetail.css">
+    <link rel="stylesheet" href="./style/ShoppingCartStyle.css">
+
 </head>
 
 <body>
 
-    <!-- scroll-top-btn -->
-    <!-- <button class="btn btn-info fixed-bottom ml-4 mb-4" id="scroll-top-btn"> 
-        <img src="./img/up-arrow.png" alt="">
-    </button> -->
-    <!-- scroll-top-btn -->
-
-
-    <!--start-menu-->
+    <!--===== start header area =====-->
 
     <nav id="scroll-spy1" class="navbar navbar-expand-lg navbar-dark bg-secondary sticky-top mb-5">
         <a href="#" class="navbar-brand">
@@ -36,7 +26,7 @@
         </button>
         <div class="collapse navbar-collapse" id="sub-menu-1">
             <ul class="navbar-nav">
-                <li class="nav-item"><a href="./index.html" class="nav-link">خانه</a></li>
+                <li class="nav-item"><a href="index.php" class="nav-link">خانه</a></li>
                 <li class="nav-item ">
                     <a href="#" class="nav-link dropdown-toggle custom-dropdown-toggle" data-toggle="dropdown">محصولات</a>
                     <div class="dropdown-menu bg-muted m-0 border-0" id="custom-mega-dropdown">
@@ -47,25 +37,25 @@
                                     </div>
                                     <ul class="list-group custom-dropdown-main-menu">
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر سه بعدی
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">لوازم جانبی پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">اسکنر
                                             </a>
                                         </li>
@@ -77,25 +67,25 @@
                                     </div>
                                     <ul class="list-group custom-dropdown-main-menu">
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر سه بعدی
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">لوازم جانبی پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">اسکنر
                                             </a>
                                         </li>
@@ -107,25 +97,25 @@
                                     </div>
                                     <ul class="list-group custom-dropdown-main-menu">
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر سه بعدی
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">لوازم جانبی پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">اسکنر
                                             </a>
                                         </li>
@@ -137,25 +127,25 @@
                                     </div>
                                     <ul class="list-group custom-dropdown-main-menu">
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر سه بعدی
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">لوازم جانبی پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">اسکنر
                                             </a>
                                         </li>
@@ -166,8 +156,8 @@
                         </div>
                     </div>
                 </li>
-                <li class="nav-item"><a href="./aboutUs.html" class="nav-link">درباره ما</a></li>
-                <li class="nav-item"><a href="./contactUs.html" class="nav-link">تماس با ما</a></li>
+                <li class="nav-item"><a href="#sec3" class="nav-link">منو دوم</a></li>
+                <li class="nav-item"><a href="#sec4" class="nav-link">منو سوم</a></li>
             </ul>
 
             <form action="" class="form-inline mr-auto">
@@ -186,9 +176,9 @@
                         </a>
                         <div class="dropdown-menu border-left-0 border-right-0 shadow-sm" id="custom-dropdown-menu">
 
-                            <a href="./shoppingCart.html" class="dropdown-item text-center">سبد خرید</a>
+                            <a href="shoppingCart.php" class="dropdown-item text-center">سبد خرید</a>
                             <div class="dropdown-divider"></div>
-                            <a href="./login.html" class="btn btn-block btn-sm my-auto">ورود</a>
+                            <a href="login.php" class="btn btn-block btn-sm my-auto">ورود</a>
                             <div class="dropdown-divider"></div>
                             <a href="#" class="dropdown-item text-center">خروج</a>
                         </div>
@@ -198,53 +188,89 @@
         </div>
     </nav>
 
+    <!--===== end header area =====-->
 
-    <!--end-menu-->
+    <!--start shop-cart-->
 
-    <!--start-main-content-->
+    <div class="container-fluid">
 
-    <div class="container custom-container">
-        <div class="main-content">
-            <img id="main-pic" src="./img/news1-main.jpg" alt="">
-            <h2 class="mb-3">مراسم رونمایی</h2>
-            <p>
-                پس از یکسال تلاش بی وقفه و جهادی در ستاد کارآفرینان وکارگاه تولید خلاق ، اعضای نخبه ستاد بر آن شدند تا مراسمی را جهت رونمایی از دستاوردهای خودشان برگزار نمایند و با دعوت از مهمانان و مقامات مربوطه جشن تلاش خویش را با آنها به اشتراک بگذارند.
-            </p>
-            <p>
-                این مراسم که در واقع افتتاح رسمی از نام ستاد کارآفرینان نیز بود در تاریخ 13 تیر ماه 99 در صحن مسجد جامع المهدی بریانک تهران در ساعت 19 الی 20:30 به مدت یک ساعت و نیم برگزار گردید با قرائت قرآن و سخنرانی امام جماعت محترم مسجد جامع المهدی (عج) حاج آقای
-                رنجبر و جناب آقای دکتر سید رضا بشارتی مدیرعامل ستاد کارآفرینان و فرماندهان محترم پایگاه های بسیج دو مسجد حضرت قمر بنی هاشم (ع) و المهدی (عج) آغاز گردید و با تقدیر از دست اندر کاران این مجموعه و جوانان نخبه دو مسجد به پایان رسید.
-            </p>
-            <p>
-                در کنار برگزاری این مراسم نمایشگاهی از دست آوردهای ستاد کارآفرینان نیز در حیاط مسجد جامع المهدی (عج) برگزار گردید که حضار توانستند از نزدیک با اختراعات و ابتکارات جوانان مومن و نخبه این مجموعه آشنایی یابند.
-            </p>
-            <p>
-                در پایان مراسم نیز، با افتتاح رسمی از تابلوی کارگاه تولید خلاق ، فعالیت جدی و جهادی آن به شکل پربارتر آغاز گردید.
-            </p>
-            <ul id="news-gallery">
-                <li id="img-wrapper">
-                    <img src="./img/news1-second.jpg" alt="">
-                </li>
-
-                <li id="img-wrapper">
-                    <img src="./img/news1-third.jpg" alt="">
-                </li>
-                <li id="img-wrapper">
-                    <img src="./img/news1-forth.jpg" alt="">
-                </li>
-                <li id="img-wrapper">
-                    <img src="./img/news1-fifth.jpg" alt="">
-                </li>
-                <li id="img-wrapper">
-                    <img src="./img/news1-sixth.jpg" alt="">
-                </li>
-            </ul>
+        <div class="row m-5 p-5 justify-content-center border border-secondary rounded">
+            <div class="col-12 col-sm-6 col-xl-3 ml-sm-5 ml-md-0 mb-4">
+                <img src="http://via.placeholder.com/200x200" alt="" class="rounded float-right">
+            </div>
+            <div class="col-12 col-sm-6 col-xl-3 mr-sm-5 mr-md-0  mb-4">
+                <h5 class="font-weight-bold mb-4">محصول نمونه اولیه</h5>
+                <p>صفحه نمایش: 5 اینج</p>
+                <p>صفحه اصلی: 4 گیگ</p>
+                <p>حافظه جانبی: 32 گیگ</p>
+            </div>
+            <div class="col-12 col-xl-3 mb-2">
+                <div class="row">
+                    <!-- <label class="input-group-text mb-3 w-50 text-center mr-1">تعداد</label> -->
+                    <div class="input-group col-12 col-sm-6 col-xl-12 mb-5">
+                        <div class="input-group-prepend custom-input-group">
+                            <button class="btn btn-outline-secondary" type="button">+</button>
+                        </div>
+                        <input type="number" value="0" class="form-control col-md-3 text-center">
+                        <div class="input-group-append custom-input-group">
+                            <button class="btn btn-outline-secondary" type="button">-</button>
+                        </div>
+                    </div>
+                    <!-- <div class="btn" type="button" style="width: 10%;" id="custom-btn-span">
+                        <img src="./img/delete-icon.png" alt="" class="img-fluid">
+                    </div> -->
+                    <div class="col-12 col-sm-6 col-xl-12">
+                        <p>قیمت کل: 20000</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card col-12 col-sm-12 col-xl-3">
+                <div class="card-body">
+                    <h5 class="card-title font-weight-bold mb-0 mb-xl-4 text-center">خلاصه سفارش</h5>
+                    <div class="px-4">
+                        <div class="row justify-content-between">
+                            <span>قیمت اولیه</span>
+                            <span>3000</span>
+                        </div>
+                        <hr>
+                        <div class="row justify-content-between">
+                            <span>تخفیف</span>
+                            <span>3000</span>
+                        </div>
+                        <hr>
+                        <div class="row justify-content-between">
+                            <span>هزینه حمل</span>
+                            <span>3000</span>
+                        </div>
+                        <hr>
+                        <div class="row justify-content-between">
+                            <span>مجموع</span>
+                            <span>3000</span>
+                        </div>
+                    </div>
+                    <a href="#" class="btn btn-info btn-block mt-4 custom-submit-btn">پرداخت</a>
+                </div>
+            </div>
         </div>
+
+        <!-- v2 forgot-pass-modal -->
+
+        <div class="overlay">
+            <div class="close__btn">
+                <span class="bar"></span>
+                <span class="bar second"></span>
+            </div>
+            <div class="overlay__container">
+                <p class="overlay__txt subtxt">با شما تماس گرفته خواهد شد</p>
+            </div>
+        </div>
+        <!-- v2 forgot-pass-modal -->
+
     </div>
 
-    <!--end-main-content-->
+    <!--end  shop-cart-->
 
-
-    <!--start-footer-->
+    <!--===== start footer area =====-->
 
     <footer class="custom-footer py-4">
         <div class="container">
@@ -288,29 +314,26 @@
 
     </div>
 
-    <!--end-footer-->
+    <!--===== end footer area =====-->
 
-    <!-- <script>
-        const scrollTopBtn = document.querySelector('#scroll-top-btn');
+    <script>
+        const btn = document.querySelector('.custom-submit-btn');
+        const overlay = document.querySelector('.overlay');
+        const close = document.querySelector('.close__btn');
 
-        window.addEventListener('scroll', scrollTop);
-
-        const scrollTop = () => {
-            if (window.scrollTop > 500) {
-                scrollTopBtn.style.display = "block !important";
-            } else {
-                scrollTopBtn.style.display = "none !important";
-            }
+        function modalInteraction() {
+            overlay.classList.toggle('open');
         }
-    </script> -->
+        close.addEventListener('click', modalInteraction);
+        btn.addEventListener('click', modalInteraction);
+    </script>
 
-    <script src="./js/index.js"></script>
+
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.js"></script>
     <script src="js/jquery.simpleTicker.js"></script>
     <script src="js/jquery.bootstrap.newsbox.js"></script>
-    <script src="js/custom.js"></script>
 
 </body>
 

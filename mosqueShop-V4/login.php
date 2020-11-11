@@ -30,7 +30,7 @@
             <button class="custom-btn">ورود</button>
             <div>
                 <small>حساب کاربری ندارید؟</small>
-                <a id="signUp-btn" href="./signUp.html">ثبت نام</a>
+                <a id="signUp-btn" href="signUp.php">ثبت نام</a>
             </div>
         </form>
 
@@ -53,7 +53,7 @@
     </div>
 
     <!-- back-to-home-page -->
-    <a href="./index.html" id="back-to-home-page">
+    <a href="index.php" id="back-to-home-page">
         <img src="./img/home.png" alt="">
     </a>
     <!-- back-to-home-page -->

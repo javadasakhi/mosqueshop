@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>ستاد کارآفرینان مسجد و محله</title>
+    <title>اخبار</title>
     <link rel="icon" href="./img/logo.png" sizes="500x500">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/bootstrap-rtl.css">
@@ -13,7 +13,7 @@
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"> -->
     <link rel="stylesheet" href="./style/style.css">
-    <link rel="stylesheet" href="./style/contactUs.css">
+    <link rel="stylesheet" href="./style/newsDetail.css">
 </head>
 
 <body>
@@ -36,7 +36,7 @@
         </button>
         <div class="collapse navbar-collapse" id="sub-menu-1">
             <ul class="navbar-nav">
-                <li class="nav-item"><a href="./index.html" class="nav-link">خانه</a></li>
+                <li class="nav-item"><a href="index.php" class="nav-link">خانه</a></li>
                 <li class="nav-item ">
                     <a href="#" class="nav-link dropdown-toggle custom-dropdown-toggle" data-toggle="dropdown">محصولات</a>
                     <div class="dropdown-menu bg-muted m-0 border-0" id="custom-mega-dropdown">
@@ -47,25 +47,25 @@
                                     </div>
                                     <ul class="list-group custom-dropdown-main-menu">
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر سه بعدی
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">لوازم جانبی پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">اسکنر
                                             </a>
                                         </li>
@@ -77,25 +77,25 @@
                                     </div>
                                     <ul class="list-group custom-dropdown-main-menu">
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر سه بعدی
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">لوازم جانبی پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">اسکنر
                                             </a>
                                         </li>
@@ -107,25 +107,25 @@
                                     </div>
                                     <ul class="list-group custom-dropdown-main-menu">
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر سه بعدی
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">لوازم جانبی پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">اسکنر
                                             </a>
                                         </li>
@@ -137,25 +137,25 @@
                                     </div>
                                     <ul class="list-group custom-dropdown-main-menu">
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">پرینتر سه بعدی
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">لوازم جانبی پرینتر
                                             </a>
                                         </li>
 
                                         <li class="list-group-item border-0 bg-info px-1">
-                                            <a href="./product.html">
+                                            <a href="product.php">
                                                 <img src="./img/left-arrow.png" alt="">اسکنر
                                             </a>
                                         </li>
@@ -166,8 +166,8 @@
                         </div>
                     </div>
                 </li>
-                <li class="nav-item"><a href="./aboutUs.html" class="nav-link">درباره ما</a></li>
-                <li class="nav-item"><a href="./contactUs.html" class="nav-link">تماس با ما</a></li>
+                <li class="nav-item"><a href="aboutUs.php" class="nav-link">درباره ما</a></li>
+                <li class="nav-item"><a href="contactUs.php" class="nav-link">تماس با ما</a></li>
             </ul>
 
             <form action="" class="form-inline mr-auto">
@@ -186,9 +186,9 @@
                         </a>
                         <div class="dropdown-menu border-left-0 border-right-0 shadow-sm" id="custom-dropdown-menu">
 
-                            <a href="./shoppingCart.html" class="dropdown-item text-center">سبد خرید</a>
+                            <a href="shoppingCart.php" class="dropdown-item text-center">سبد خرید</a>
                             <div class="dropdown-divider"></div>
-                            <a href="./login.html" class="btn btn-block btn-sm my-auto">ورود</a>
+                            <a href="login.php" class="btn btn-block btn-sm my-auto">ورود</a>
                             <div class="dropdown-divider"></div>
                             <a href="#" class="dropdown-item text-center">خروج</a>
                         </div>
@@ -205,30 +205,39 @@
 
     <div class="container custom-container">
         <div class="main-content">
-            <h1>ارتباط با ما</h1>
-            <h4 class="mb-4">آدرس هسته مرکزی ستاد کارفرینان مسجد و محله :</h4>
+            <img id="main-pic" src="./img/news1-main.jpg" alt="">
+            <h2 class="mb-3">مراسم رونمایی</h2>
             <p>
-                تهران، خیابان جیحون، خیابان شهید رنجبر، خیابان شهید سید عابدین نوری( گلستانی سابق)، روبروی پارک هفت چنار، مسجد جامع المهدی(عج)، کارگاه تولید خلا
+                پس از یکسال تلاش بی وقفه و جهادی در ستاد کارآفرینان وکارگاه تولید خلاق ، اعضای نخبه ستاد بر آن شدند تا مراسمی را جهت رونمایی از دستاوردهای خودشان برگزار نمایند و با دعوت از مهمانان و مقامات مربوطه جشن تلاش خویش را با آنها به اشتراک بگذارند.
             </p>
             <p>
-                لطفا قبل از هرگونه حضور با شماره های زیر تماس و هماهنگی به عمل آورید:
+                این مراسم که در واقع افتتاح رسمی از نام ستاد کارآفرینان نیز بود در تاریخ 13 تیر ماه 99 در صحن مسجد جامع المهدی بریانک تهران در ساعت 19 الی 20:30 به مدت یک ساعت و نیم برگزار گردید با قرائت قرآن و سخنرانی امام جماعت محترم مسجد جامع المهدی (عج) حاج آقای
+                رنجبر و جناب آقای دکتر سید رضا بشارتی مدیرعامل ستاد کارآفرینان و فرماندهان محترم پایگاه های بسیج دو مسجد حضرت قمر بنی هاشم (ع) و المهدی (عج) آغاز گردید و با تقدیر از دست اندر کاران این مجموعه و جوانان نخبه دو مسجد به پایان رسید.
             </p>
             <p>
-                09192303220
+                در کنار برگزاری این مراسم نمایشگاهی از دست آوردهای ستاد کارآفرینان نیز در حیاط مسجد جامع المهدی (عج) برگزار گردید که حضار توانستند از نزدیک با اختراعات و ابتکارات جوانان مومن و نخبه این مجموعه آشنایی یابند.
             </p>
             <p>
-                021-55798142
+                در پایان مراسم نیز، با افتتاح رسمی از تابلوی کارگاه تولید خلاق ، فعالیت جدی و جهادی آن به شکل پربارتر آغاز گردید.
             </p>
-            <p>
-                همچنین جهت ارتباط با واحد فروش و بازاریابی ستاد کارآفرینان می توانید از طریق شماره همراه زیر اقدام نمایید:
-            </p>
-            <p>
-                09914038598
-            </p>
-            <p>
-                در شبکه های مجازی نیز از طریق شماره همراه فوق می توانید با ما در ارتباط باشید.
-            </p>
-            <img id="contactUs-img" src="./img/contactUs.jpg" alt="">
+            <ul id="news-gallery">
+                <li id="img-wrapper">
+                    <img src="./img/news1-second.jpg" alt="">
+                </li>
+
+                <li id="img-wrapper">
+                    <img src="./img/news1-third.jpg" alt="">
+                </li>
+                <li id="img-wrapper">
+                    <img src="./img/news1-forth.jpg" alt="">
+                </li>
+                <li id="img-wrapper">
+                    <img src="./img/news1-fifth.jpg" alt="">
+                </li>
+                <li id="img-wrapper">
+                    <img src="./img/news1-sixth.jpg" alt="">
+                </li>
+            </ul>
         </div>
     </div>
 
