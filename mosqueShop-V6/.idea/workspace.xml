@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2353976-82f8-4803-935c-6d454d79de84" name="Default" comment="&#10;not complete" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>html</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1k8lzoFBDzNtMjE4TvputNLFFD1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.splitter.proportion" value="0.24975705" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2353976-82f8-4803-935c-6d454d79de84" name="Default" comment="" />
+      <created>1604827229214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604827229214</updated>
+      <workItem from="1604827230523" duration="908000" />
+      <workItem from="1604828184913" duration="448000" />
+      <workItem from="1605025265161" duration="57000" />
+      <workItem from="1605025339715" duration="20000" />
+      <workItem from="1605029042782" duration="873000" />
+      <workItem from="1605029992142" duration="2029000" />
+      <workItem from="1605044978529" duration="244000" />
+      <workItem from="1605079386129" duration="858000" />
+      <workItem from="1605080279960" duration="1577000" />
+      <workItem from="1605090367973" duration="9238000" />
+      <workItem from="1605128003113" duration="377000" />
+      <workItem from="1605128395561" duration="98000" />
+      <workItem from="1605129614959" duration="1721000" />
+      <workItem from="1605167261313" duration="1817000" />
+      <workItem from="1605177549989" duration="12066000" />
+    </task>
+    <task id="LOCAL-00001" summary="ورژن 6 &#10;بازنویسی دوباره پروژه این بار بهتر از دفعات قبل&#10;not complete">
+      <created>1605125577525</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605125577525</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&#10;not complete">
+      <created>1605130996659</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605130996659</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/wamp64/www/mosqueShop-V6" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="format file is HTML &#10;and &#10;this project have bugs&#10;not complete" />
+    <MESSAGE value="ورژن 6 &#10;بازنویسی دوباره پروژه این بار بهتر از دفعات قبل&#10;not complete" />
+    <MESSAGE value="&#10;not complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;not complete" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="300" y="13" key="#CLI_Interpreters" timestamp="1605091263822">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="300" y="13" key="#CLI_Interpreters/0.0.1366.728@0.0.1366.728" timestamp="1605091263822" />
+    <state x="390" y="5" key="#PHP" timestamp="1605090544229">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="5" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1605090544229" />
+    <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605177581198">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1605177581198" />
+    <state x="500" y="113" key="FileChooserDialogImpl" timestamp="1605128442579">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="113" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605128442579" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1605091268291">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605091268291" />
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1605125598329">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605125598329" />
+    <state x="339" y="157" key="run.anything.popup" timestamp="1605177587716">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1605177587716" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1605093260277">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1605093260277" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
