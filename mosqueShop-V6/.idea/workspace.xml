@@ -6,7 +6,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2353976-82f8-4803-935c-6d454d79de84" name="Default" comment="تکمیل کامل بخش خبرنامه&#10;not complete">
+      <change beforePath="$PROJECT_DIR$/../mosqueShop-V5/view/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V5/view/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/newsDetail.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/newsDetail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/img/Slider1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/img/Slider1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/img/slider2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/img/slider2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/img/slider3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/img/slider3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/img/slider4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/img/slider4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/newsDetail.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/newsDetail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/untitled2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/.idea/untitled2.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mosqueShop-V5" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
@@ -69,6 +79,9 @@
       <workItem from="1605167261313" duration="1817000" />
       <workItem from="1605177549989" duration="13582000" />
       <workItem from="1605295662928" duration="607000" />
+      <workItem from="1605299333798" duration="546000" />
+      <workItem from="1605472976448" duration="73000" />
+      <workItem from="1605614320597" duration="4707000" />
     </task>
     <task id="LOCAL-00001" summary="ورژن 6 &#10;بازنویسی دوباره پروژه این بار بهتر از دفعات قبل&#10;not complete">
       <created>1605125577525</created>
@@ -148,9 +161,6 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="format file is HTML &#10;and &#10;this project have bugs&#10;not complete" />
     <MESSAGE value="ورژن 6 &#10;بازنویسی دوباره پروژه این بار بهتر از دفعات قبل&#10;not complete" />
@@ -171,10 +181,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1605177581198" />
-    <state x="500" y="113" key="FileChooserDialogImpl" timestamp="1605297155560">
+    <state x="500" y="113" key="FileChooserDialogImpl" timestamp="1605639841134">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="500" y="113" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605297155560" />
+    <state x="500" y="113" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605639841134" />
+    <state x="518" y="286" key="NewPhpFileDialog" timestamp="1605639748425">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="518" y="286" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605639748425" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1605091268291">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

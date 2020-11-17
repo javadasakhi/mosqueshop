@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fb7043c-b991-4631-9e1d-3fc7387cb8d8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../mosqueShop-V4.5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V4.5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mosqueShop-V4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mosqueShop-V4/aboutUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V4/aboutUs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mosqueShop-V4/contactUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V4/contactUs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mosqueShop-V4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V4/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mosqueShop-V4/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V4/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mosqueShop-V4/newsDetail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V4/newsDetail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mosqueShop-V4/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V4/product.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mosqueShop-V4/productDetail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V4/productDetail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mosqueShop-V4/shoppingCart.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V4/shoppingCart.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mosqueShop-V4/signUp.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V4/signUp.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mosqueShop-V6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mosqueShop-V6/controller/newsDetail.php" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V6/controller/newsDetail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mosqueShop-V6/view/img/Slider1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V6/view/img/Slider1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mosqueShop-V6/view/img/slider2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V6/view/img/slider2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mosqueShop-V6/view/img/slider3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V6/view/img/slider3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mosqueShop-V6/view/img/slider4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V6/view/img/slider4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mosqueShop-V6/view/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V6/view/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mosqueShop-V6/view/newsDetail.php" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V6/view/newsDetail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/untitled2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/.idea/untitled2.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +117,7 @@
       <workItem from="1605029823694" duration="453000" />
       <workItem from="1605090826236" duration="300000" />
       <workItem from="1605092253925" duration="2091000" />
+      <workItem from="1605639647050" duration="86000" />
     </task>
     <task id="LOCAL-00001" summary="اصلاح نمایش حدیث">
       <created>1604860858627</created>

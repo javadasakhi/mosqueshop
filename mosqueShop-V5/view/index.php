@@ -1,5 +1,5 @@
 <?php include('../controller/index.php'); ?>
-<?php // include('../controller/onlineUser.php'); ?>
+<?php  include('../controller/onlineUser.php'); ?>
 <!doctype html>
 <html lang="fa">
 
@@ -470,7 +470,7 @@
             <div class="col-12 col-md-4">
                 <p class="text-white font-weight-bold ml-2">آمار وب سایت</p>
                 <ul class="list-inline text-white mt-3">
-                    <li class="p-1">کاربران آنلاین: <?php // print_r($count_user_online);?></li>
+                    <li class="p-1">کاربران آنلاین: <?php  print_r($count_user_online);?></li>
                     <li class="p-1">تعداد مطالب : <?php echo $count_content; ?></li>
                     <li class="p-1">تعداد کامنت : <?php echo $count_comment; ?></li>
                 </ul>

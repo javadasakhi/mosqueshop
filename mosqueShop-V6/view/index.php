@@ -2,6 +2,7 @@
 <html lang="fa">
 
 <?php include '../controller/index.php'; ?>
+<?php // include('../controller/onlineUser.php'); ?>
 
 
 <head>
@@ -14,18 +15,10 @@
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/bootstrap-rtl.css">
     <link rel="stylesheet" href="css/jquery.simpleTicker.css">
-    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"> -->
     <link rel="stylesheet" href="./style/style.css">
 </head>
 
 <body>
-
-<!-- scroll-top-btn -->
-<!-- <button class="btn btn-info fixed-bottom ml-4 mb-4" id="scroll-top-btn">
-    <img src="./img/up-arrow.png" alt="">
-</button> -->
-<!-- scroll-top-btn -->
 
 
 <!--start-top-header-->
@@ -234,7 +227,7 @@
 
 <div class="container mb-5">
     <div class="row">
-        <div class="col-12 col-md-12 col-lg-12 mt-3 mt-md-0">
+        <div class="col-12 mt-3 mt-md-0">
 
             <div id="myCarousel" class="carousel slide carousel-fade shadow-sm" data-ride="carousel">
 
@@ -246,28 +239,18 @@
                     <li data-target="#myCarousel" data-slide-to="4"></li>
                 </ol>
 
-
-                <div class="carousel-inner rounded">
+                <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block w-100" src="<?php echo $slider[0]['sliderImageAddress']; ?>" alt="London1"
-                             height="400">
+                        <img class="img-fluid d-block w-100" src="<?php echo $slider[0]['sliderImageAddress']; ?>" alt="" style="height: 400px">
                     </div>
                     <?php
                     foreach ((array)$slider as $s) {
                         echo '<div class="carousel-item">';
-                        echo '<img class="d-block w-100" src=' . $s[0] . ' alt="London" height="400">';
+                        echo '<img class="img-fluid d-block w-100" src=' . $s[0] . ' alt="" style="height: 400px">';
                         echo '</div>';
                     }
                     ?>
                 </div>
-
-                <!--<a class="carousel-control-prev" href="#myCarousel" data-slide="prev">-->
-                <!--<span class="carousel-control-prev-icon"></span>-->
-                <!--</a>-->
-                <!--<a class="carousel-control-next" href="#myCarousel" data-slide="next">-->
-                <!--<span class="carousel-control-next-icon"></span>-->
-                <!--</a>-->
-
             </div>
 
         </div>
@@ -344,13 +327,14 @@
         <?php
         $i=0;
         foreach ($normalNewsTitle as $t) {
-            echo '<div class="col-12 col-md-12 mb-3 d-flex ">';
-            echo '<img class="w-25" src="'.image($normalNewsTitle,$i).'" alt="">';
-            echo '<div class="ml-4">';
+            if($i==3){break;}
+            echo '<div class="col-12 mb-3 d-flex flex-column flex-md-row align-items-center">';
+            echo '<img class=" col-12 col-md-4" src="'.image($normalNewsTitle,$i).'" alt="">';
+            echo '<div class="col-12 col-md-8 mt-4">';
             echo '<a href="#" class="card-title font-weight-bold">';
             echo  $t[0];
             echo '</a>';
-            echo '<p class="mt-3">';
+            echo '<p class="mt-3 text-justify">';
             echo substr($normalNewsLongDescription[$i]['longDescriptionNews'],0,400);
             echo '</p>';
             echo '<a class="float-left" href="newsDetail.php?k=nnt&&t='.$t[0].'">ادامه مطلب</a>';
@@ -436,7 +420,7 @@
             <div class="col-12 col-md-4">
                 <p class="text-white font-weight-bold ml-2">آمار وب سایت</p>
                 <ul class="list-inline text-white mt-3">
-                    <li class="p-1">کاربران آنلاین : 402</li>
+                    <li class="p-1">کاربران آنلاین: <?php // print_r($count_user_online);?></li>
                     <li class="p-1">تعداد مطالب : <?php echo $count_content[0]['count(titleNews)']; ?></li>
                     <li class="p-1">تعداد کامنت : <?php echo $count_comment[0]['count(id)']; ?>></li>
                 </ul>
