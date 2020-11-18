@@ -420,7 +420,7 @@
             <div class="col-12 col-md-4">
                 <p class="text-white font-weight-bold ml-2">آمار وب سایت</p>
                 <ul class="list-inline text-white mt-3">
-                    <li class="p-1">کاربران آنلاین: <?php // print_r($count_user_online);?></li>
+                   <!-- <li class="p-1">کاربران آنلاین: <?php // print_r($count_user_online);?></li>-->
                     <li class="p-1">تعداد مطالب : <?php echo $count_content[0]['count(titleNews)']; ?></li>
                     <li class="p-1">تعداد کامنت : <?php echo $count_comment[0]['count(id)']; ?>></li>
                 </ul>

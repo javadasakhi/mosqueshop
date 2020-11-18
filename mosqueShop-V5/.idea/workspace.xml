@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fb7043c-b991-4631-9e1d-3fc7387cb8d8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mosqueShop-V6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V6/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mosqueShop-V6/controller/newsDetail.php" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V6/controller/newsDetail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mosqueShop-V6/controller/onlineUser.php" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V6/controller/onlineUser.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mosqueShop-V6/view/img/Slider1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V6/view/img/Slider1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mosqueShop-V6/view/img/slider2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V6/view/img/slider2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mosqueShop-V6/view/img/slider3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../mosqueShop-V6/view/img/slider3.jpg" afterDir="false" />
@@ -118,6 +120,7 @@
       <workItem from="1605090826236" duration="300000" />
       <workItem from="1605092253925" duration="2091000" />
       <workItem from="1605639647050" duration="86000" />
+      <workItem from="1605639843137" duration="262000" />
     </task>
     <task id="LOCAL-00001" summary="اصلاح نمایش حدیث">
       <created>1604860858627</created>

@@ -33,7 +33,7 @@ if (isset($_GET['k'])) {
         $title = DB::query('select titleNews from news where category=6', array());
         $newsBody = DB::query('select longDescriptionNews from news where category=6', array());
         $imageNews=DB::query('select image_Address from image where category_id=6',array());
-        print_r($imageNews);
+
     }
     if ($_GET['k'] == 'snct') {
         $title = DB::query('select titleNews from news where category=7', array());
